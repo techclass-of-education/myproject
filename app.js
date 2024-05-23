@@ -4,7 +4,7 @@ const app=express()
 
 // CRUD  create(insert)  Retrive(select)  Update  delete
 // app.get()  //  Retrive(select)
-
+//yes this is first pull
 // app.post() //  create(insert) 
 
 // app.delete()  //delete
